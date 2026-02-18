@@ -1,26 +1,26 @@
 [
   {
     "file": "SnowRider3d.html",
-    "icon": "icons/snowrider3d.png"
+    "icon": "https://cdn.jsdelivr.net/gh/HyperFloppik/Game-Library@main/icons/snow-rider-3d.jpg"
   },
   {
     "file": "RagdollArchers.html",
-    "icon": "icons/ragdollarchers.png"
+    "icon": "https://cdn.jsdelivr.net/gh/HyperFloppik/Game-Library@main/icons/ragdoll-archers_1x1-cover.png"
   },
   {
     "file": "JustFall.lol.html",
-    "icon": "icons/justfall.png"
+    "icon": "https://cdn.jsdelivr.net/gh/HyperFloppik/Game-Library@main/icons/favicon.png"
   },
   {
     "file": "GeomteryDashLite.html",
-    "icon": "icons/geometrydashlite.png"
+    "icon": "https://cdn.jsdelivr.net/gh/HyperFloppik/Game-Library@main/icons/a-better-lite-logo-v0-kwbwn4j7174d1.webp"
   },
   {
     "file": "BasketRandom.html",
-    "icon": "icons/basketrandom.png"
+    "icon": "https://cdn.jsdelivr.net/gh/HyperFloppik/Game-Library@main/icons/unnamed.png"
   },
   {
     "file": "CrossyRoad.html",
-    "icon": "icons/crossyroad.png"
+    "icon": "https://cdn.jsdelivr.net/gh/HyperFloppik/Game-Library@main/icons/images.jpg"
   }
 ]
