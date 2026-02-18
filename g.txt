@@ -1,6 +1,0 @@
-SnowRider3d.html
-RagdollArchers.html
-JustFall.lol.html
-GeomteryDashLite.html
-BasketRandom.html
-CrossyRoad.html

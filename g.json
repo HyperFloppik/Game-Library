@@ -1,0 +1,26 @@
+[
+  {
+    "file": "SnowRider3d.html",
+    "icon": "icons/snowrider3d.png"
+  },
+  {
+    "file": "RagdollArchers.html",
+    "icon": "icons/ragdollarchers.png"
+  },
+  {
+    "file": "JustFall.lol.html",
+    "icon": "icons/justfall.png"
+  },
+  {
+    "file": "GeomteryDashLite.html",
+    "icon": "icons/geometrydashlite.png"
+  },
+  {
+    "file": "BasketRandom.html",
+    "icon": "icons/basketrandom.png"
+  },
+  {
+    "file": "CrossyRoad.html",
+    "icon": "icons/crossyroad.png"
+  }
+]
